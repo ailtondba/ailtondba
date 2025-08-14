@@ -4,7 +4,7 @@
 
 ### ✨ Arquiteto Digital | 🧩 Desvendando Quebra-cabeças Lógicos
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Desenvolvendo+minha+mente+para+escrever+as+regras+do+possível;Transformando+ideias+em+código;Apaixonado+por+inovação" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Desenvolvendo+minha+mente+para+escrever+as+regras+do+possível;Transformando+ideias+em+código" alt="Typing SVG" />
 
 ---
 
