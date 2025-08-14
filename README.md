@@ -53,7 +53,7 @@ const ailton = {
 
 ## 🌟 O que eu faço
 
-- 🔭 Atualmente trabalhando em projetos e colaborar em projetos open
+- 🔭 Atualmente ajudando e colaborando em projetos open
 - 🌱 Desenvolvendo minha mente para escrever as regras do possível
 - 💬 Pergunte-me sobre filosofia e eu vou te dar um código
 - ⚡ Fato curioso: Acredito que tudo é impermanente!
