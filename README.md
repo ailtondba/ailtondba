@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Olá, eu sou Ailton Castro!
-
+i
 ### ✨ Arquiteto Digital | 🧩 Desvendando Quebra-cabeças Lógicos
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvendo+minha+mente;escrever+as+regras+do+possível;Transformar+ideias+em+códigos" alt="Typing SVG" />
@@ -20,17 +20,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ailtondba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailtondba&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
