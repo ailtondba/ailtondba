@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou Ailton Castro!
 
-### 🚀 Desenvolvedor Full Stack | 💻 Apaixonado por Tecnologia
+### ✨ Arquiteto Digital | 🧩 Desvendando Quebra-cabeças Lógicos
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Sempre+aprendendo+algo+novo;Transformando+ideias+em+código;Apaixonado+por+inovação" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Desenvolvendo+minha+mente+para+escrever+as+regras+do+possível;Transformando+ideias+em+código;Apaixonado+por+inovação" alt="Typing SVG" />
 
 ---
 
@@ -54,7 +54,7 @@ const ailton = {
 ## 🌟 O que eu faço
 
 - 🔭 Atualmente trabalhando em projetos Full Stack
-- 🌱 Sempre aprendendo novas tecnologias
+- 🌱 Desenvolvendo minha mente para escrever as regras do possível
 - 👯 Procurando colaborar em projetos open source
 - 💬 Pergunte-me sobre desenvolvimento web
 - ⚡ Fato curioso: Acredito que tudo é impermanente!
