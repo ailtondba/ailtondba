@@ -53,10 +53,9 @@ const ailton = {
 
 ## 🌟 O que eu faço
 
-- 🔭 Atualmente trabalhando em projetos Full Stack
+- 🔭 Atualmente trabalhando em projetos e colaborar em projetos open
 - 🌱 Desenvolvendo minha mente para escrever as regras do possível
-- 👯 Procurando colaborar em projetos open source
-- 💬 Pergunte-me sobre desenvolvimento web
+- 💬 Pergunte-me sobre filosofia e eu vou te dar um código
 - ⚡ Fato curioso: Acredito que tudo é impermanente!
 
 ---
